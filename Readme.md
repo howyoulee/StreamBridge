@@ -1,12 +1,8 @@
-# EE450 Project Report
+# Project Report
 
 > First Name: Haoyu
 >
 > Last Name: Li
->
-> USC Username: hli12442
->
-> Student ID: 7947629427
 
 
 
